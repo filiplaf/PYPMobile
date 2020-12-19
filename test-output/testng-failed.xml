@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="PREVIEW FAVORITE MEDIA(failed)">
+    <classes>
+      <class name="pyp.MyFavoritesPreview">
+        <methods>
+          <include name="deleteAllFavorites"/>
+          <include name="teardown"/>
+          <include name="myFavoritesPreview"/>
+        </methods>
+      </class> <!-- pyp.MyFavoritesPreview -->
+    </classes>
+  </test> <!-- PREVIEW FAVORITE MEDIA(failed) -->
+</suite> <!-- Failed suite [Suite] -->

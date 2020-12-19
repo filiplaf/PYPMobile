@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="TEMPLATE FILTERS">
+    <classes>
+      <class name="pyp.Login"/>
+      <class name="pyp.TemplatesDurationFilter"/>
+      <class name="pyp.TemplatesNumberOfPhotosFilter"/>
+      <class name="pyp.TemplatesMoodFilter"/>
+      <class name="pyp.TemplatesSpeedsFilter"/>
+      <class name="pyp.TemplatesRandomAllFilters"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    <test thread-count="5" name="CLOSE BROWSER">
+    <classes>
+      <class name="pyp.TerminateBrowser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
