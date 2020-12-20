@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test name="PREVIEW FAVORITE MEDIA(failed)">
+  <test name="VIEW,RENAME,DOWNLOAD FILES(failed)">
     <classes>
-      <class name="pyp.MyFavoritesPreview">
+      <class name="pyp.MyFilesFunctionalities">
         <methods>
-          <include name="deleteAllFavorites"/>
-          <include name="teardown"/>
-          <include name="myFavoritesPreview"/>
+          <include name="downloadMediaOption"/>
         </methods>
-      </class> <!-- pyp.MyFavoritesPreview -->
+      </class> <!-- pyp.MyFilesFunctionalities -->
     </classes>
-  </test> <!-- PREVIEW FAVORITE MEDIA(failed) -->
+  </test> <!-- VIEW,RENAME,DOWNLOAD FILES(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -25,10 +25,10 @@ public class MyFilesAddFiles extends Base{
 			log.error("My Files Page is not opened");
 		mf.addFilesButton().click();
 		wait_time(1);
-		mf.uploadMedia().sendKeys(upload());
+		mf.uploadMedia1().sendKeys(upload());
 		wait_time(1);
 		mf.uploadMedia().sendKeys(upload1());
-		wait_time(2);
+		wait_time(3);
 		mf.uploadMedia().sendKeys(upload2());
 		mf.addFilesButton1().click();
 		wait_time(5);

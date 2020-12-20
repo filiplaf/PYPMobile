@@ -27,7 +27,7 @@ public class MyFilesDeleteFiles extends Base{
 		mf.deleteIcon().click();
 		mf.deleteButton().click();
 		wait_time(2);
-		log.info("Nakon brisanja fajla ima " +mf.mediaBody().size()+ " fajlova");
+		log.info("Nakon brisanja fajla ima " +mf.mediaBody().size()+ " fajlova na strani");
 		log.info(mf.allFilesTab().getText());
 	}
 	
@@ -42,7 +42,7 @@ public class MyFilesDeleteFiles extends Base{
 		}
 		else
 			log.error("My Files Page is not opened");
-		log.info("Pre brisanja ima " +mf.mediaBody().size()+ " fajlova");
+		log.info("Pre brisanja ima " +mf.mediaBody().size()+ " fajlova na strani");
 		log.info(mf.allFilesTab().getText());
 		mf.mediaBody().get(0).click();
 		mf.threeDotsOnMedia().click();

@@ -43,9 +43,12 @@ public class MyFilesSearchBar extends Base{
 		log.info("Pre search-a ima " +mf.mediaBody().size()+ " media");
 		try {
 			mf.searchBar().sendKeys(wrongSearch);
+			mf.noResultMessage().isDisplayed();
 			log.info("Nakon unosa "+wrongSearch+ " prikazano je " +mf.mediaBody().size()+ " media");
+			scrollIntoView(mf.noResultMessage());
+			log.info(mf.noResultMessage().getText());
 		} catch (Exception e) {
-			log.info("Treba obraditi ovaj slucaj");
+			log.info("Nakon unosa "+wrongSearch+ " prikazano je " +mf.mediaBody().size()+ " media");
 		}
 		log.info("**********************************************************************************");
 	}

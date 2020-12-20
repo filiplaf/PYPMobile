@@ -8,10 +8,13 @@ import java.util.NoSuchElementException;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
+import javax.imageio.ImageIO;
+
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
+//import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -22,6 +25,10 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
+
+import ru.yandex.qatools.ashot.AShot;
+import ru.yandex.qatools.ashot.Screenshot;
+import ru.yandex.qatools.ashot.shooting.ShootingStrategies;
 //import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Base {
@@ -33,6 +40,7 @@ public class Base {
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--start-maximized");
 		driver = new ChromeDriver(options);
+		//driver.manage().window().setSize(new Dimension(990, 768));
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		return driver;
 	}
@@ -103,6 +111,13 @@ public class Base {
 		FileUtils.copyFile(scrFile, new File("Screenshots/" + name+".png"));
 	}
 	
+	public void captureFullScreen(String name) throws Exception{
+		wait_time(2);
+		Screenshot screenshot = new AShot().shootingStrategy(ShootingStrategies.viewportPasting(1000)).takeScreenshot(driver);
+		ImageIO.write(screenshot.getImage(),"PNG", new File("Screenshots/" + name+".png"));
+	}
+	
+	
 	public static void checkFormat(String format) {
 		List<WebElement> allFormats = driver.findElements(By.cssSelector("app-video-format > ul > li"));
 		for(WebElement e: allFormats) {
@@ -113,6 +128,16 @@ public class Base {
 	
 	public static void navigateTab(String tab) {
 		List<WebElement> allTabs = driver.findElements(By.cssSelector("div>nav.ng-star-inserted>a"));
+		for(WebElement e: allTabs) {
+			if(e.getText().equals(tab))
+				e.click();
+		}
+	}
+	
+	public static void navigateMobileTab(String tab) {
+		WebElement hamburgerMenu = driver.findElement(By.cssSelector("div.container-fluid.header.ng-star-inserted>button"));
+		hamburgerMenu.click();
+		List<WebElement> allTabs = driver.findElements(By.cssSelector(".nav-mobile.ng-star-inserted>a.nav-link"));
 		for(WebElement e: allTabs) {
 			if(e.getText().equals(tab))
 				e.click();

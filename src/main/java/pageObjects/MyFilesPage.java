@@ -17,17 +17,18 @@ public class MyFilesPage {
 		By addFilesButton = By.cssSelector("div.col-auto.right > button[type=\"button\"]");
 		By uploadOption = By.cssSelector("div.col-xl-2.col-lg-3.col-md-3.sidebar-nav>ul>li");
 		By uploadMedia = By.id("file");
+		By uploadMedia1 = By.id("file-01");
 		By uploadFilesButton1 = By.cssSelector("div.body.ng-star-inserted > div > div > label > div");
 		By addFilesButton1 = By.cssSelector("div > button.btn.btn-primary.ng-star-inserted");
 		By mediaBody = By.cssSelector("div.image-container");
-		By storageInfo = By.cssSelector("li.nav-item.ng-star-inserted.storage > a");
+		By storageInfo = By.cssSelector("li.nav-item.ng-star-inserted.storage > div");
 		By allFilesTab = By.cssSelector("li:nth-child(1) > a");
-		By imageTab = By.cssSelector("li:nth-child(2) > a");
+		By imageTab = By.cssSelector("li:nth-child(2) > a"); 
 		By musicTab = By.cssSelector("li:nth-child(3) > a");
 		By deleteIcon = By.cssSelector(".options.ng-star-inserted>li:nth-child(4)");
 		By viewIcon = By.cssSelector(".options.ng-star-inserted>li:nth-child(1)");
 		By renameIcon= By.cssSelector("div.col.d-flex.justify-content-end>ul>li.ng-star-inserted");
-		By downloadIcon = By.cssSelector(".options.ng-star-inserted>li:nth-child(3)");
+		By downloadIcon = By.cssSelector(".options.ng-star-inserted>li:nth-child(3)>.download");
 		By deleteButton = By.cssSelector("app-delete-file > div > div > div > div > button.btn.btn-primary");
 		By threeDotsOnMedia = By.cssSelector("div.col-xxl-2.col-20.col-lg-3.col-md-3.file-card.ng-star-inserted.selected > div > app-action-dropdown > div > button#button-basic");
 		By threeDotsMenuOption = By.cssSelector(".dropdown-menu.show.ng-star-inserted>li");
@@ -42,6 +43,7 @@ public class MyFilesPage {
 		By sortSize = By.cssSelector("div.row.align-content-between.sub-header > div:nth-child(1) > ul > li:nth-child(4) > span");
 		By stockMedia = By.cssSelector("div.ps-content>ul>li");
 		By loadMoreFiles = By.cssSelector("div.load-more-box.ng-star-inserted > button");
+		By noResultMessage = By.cssSelector("app-my-files > div.row.ng-star-inserted > div");
 		
 		public MyFilesPage(WebDriver driver) {
 			// TODO Auto-generated constructor stub
@@ -71,6 +73,9 @@ public class MyFilesPage {
 		}
 		public WebElement uploadMedia() {
 			return driver.findElement(uploadMedia);
+		}
+		public WebElement uploadMedia1() {
+			return driver.findElement(uploadMedia1);
 		}
 		public WebElement uploadFilesButton1() {
 			return driver.findElement(uploadFilesButton1);
@@ -146,5 +151,8 @@ public class MyFilesPage {
 		}
 		public WebElement loadMoreFiles() {
 			return driver.findElement(loadMoreFiles);
+		}
+		public WebElement noResultMessage() {
+			return driver.findElement(noResultMessage);
 		}
 }

@@ -2308,3 +2308,518 @@ Try adjusting your search to find what you're looking for
 17/Dec/2020 18:23:16,226- GetInspiredSearchBar: Na stranici je prikazano 19 template-a nakon load more templates
 17/Dec/2020 18:23:26,345- GetInspiredSearchBar: No more load templates button
 17/Dec/2020 18:23:26,346- GetInspiredSearchBar: *********************************************************************************************
+19/Dec/2020 20:51:08,596- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 20:51:12,874- MyFilesSearchBar: My Files Page successfully opened
+19/Dec/2020 20:51:12,964- MyFilesSearchBar: Pre search-a ima 2 media
+19/Dec/2020 20:51:15,302- MyFilesSearchBar: Nakon unosa a prikazano je 2 media
+19/Dec/2020 20:51:17,724- MyFilesSearchBar: Pre search-a ima 2 media
+19/Dec/2020 20:51:28,009- MyFilesSearchBar: Nakon unosa abcd prikazano je 0 media
+19/Dec/2020 20:51:28,010- MyFilesSearchBar: **********************************************************************************
+19/Dec/2020 20:54:08,918- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 20:54:13,001- MyFilesSearchBar: My Files Page successfully opened
+19/Dec/2020 20:54:13,245- MyFilesSearchBar: Pre search-a ima 2 media
+19/Dec/2020 20:54:15,635- MyFilesSearchBar: Nakon unosa a prikazano je 2 media
+19/Dec/2020 20:54:18,042- MyFilesSearchBar: Pre search-a ima 2 media
+19/Dec/2020 20:54:29,150- MyFilesSearchBar: Nakon unosa abcd prikazano je 0 media
+19/Dec/2020 20:54:29,259- MyFilesSearchBar: No result found
+Try adjusting your search to find what you're looking for
+19/Dec/2020 20:54:29,260- MyFilesSearchBar: **********************************************************************************
+19/Dec/2020 21:16:52,134- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 21:16:56,268- MyFilesFunctionalities: My Files Page successfully opened
+19/Dec/2020 21:16:58,865- MyFilesFunctionalities: Media b4ad20b9abf6cc7f642ec369094c4247.png je u view modu
+19/Dec/2020 21:17:03,093- MyFilesFunctionalities: Media b4ad20b9abf6cc7f642ec369094c4247.png je u view modu
+19/Dec/2020 21:17:05,980- MyFilesFunctionalities: Media sa imenom b4ad20b9abf6cc7f642ec3... je u rename modu
+19/Dec/2020 21:17:08,826- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+19/Dec/2020 21:17:11,097- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+19/Dec/2020 21:20:50,509- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 21:20:54,526- MyFilesFunctionalities: My Files Page successfully opened
+19/Dec/2020 21:20:56,945- MyFilesFunctionalities: Media bbb.png je u view modu
+19/Dec/2020 21:21:00,659- MyFilesFunctionalities: Media bbb.png je u view modu
+19/Dec/2020 21:21:03,049- MyFilesFunctionalities: Media sa imenom bbb.png je u rename modu
+19/Dec/2020 21:21:05,996- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+19/Dec/2020 21:21:08,342- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+19/Dec/2020 21:22:20,200- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 21:22:24,229- MyFilesFunctionalities: My Files Page successfully opened
+19/Dec/2020 21:22:26,608- MyFilesFunctionalities: Media bbb.png je u view modu
+19/Dec/2020 21:22:30,303- MyFilesFunctionalities: Media bbb.png je u view modu
+19/Dec/2020 21:22:32,908- MyFilesFunctionalities: Media sa imenom bbb.png je u rename modu
+19/Dec/2020 21:22:35,848- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+19/Dec/2020 21:22:37,861- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+19/Dec/2020 23:11:02,492- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:11:06,557- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:11:35,147- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:11:39,038- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:14:15,737- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:14:20,899- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:14:50,653- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:14:54,661- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:17:46,799- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:17:51,404- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:18:12,007- MyFilesAddFiles: Media is uploaded
+19/Dec/2020 23:18:12,211- MyFilesAddFiles: Trenutno na All files (3) prikazano je 3 fajlova
+19/Dec/2020 23:18:22,257- MyFilesAddFiles: Load more files button is not on page
+19/Dec/2020 23:18:22,363- MyFilesAddFiles: Trenutno na All files (3) prikazano je 3 fajlova
+19/Dec/2020 23:18:23,808- MyFilesAddFiles: Trenutno na Image (3) prikazano je 3 fajlova
+19/Dec/2020 23:18:35,204- MyFilesAddFiles: Trenutno na Music (0) prikazano je 0 fajlova
+19/Dec/2020 23:19:00,364- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:19:05,240- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:19:27,387- MyFilesAddFiles: Media is uploaded
+19/Dec/2020 23:19:27,645- MyFilesAddFiles: Trenutno na All files (6) prikazano je 6 fajlova
+19/Dec/2020 23:19:37,664- MyFilesAddFiles: Load more files button is not on page
+19/Dec/2020 23:19:37,752- MyFilesAddFiles: Trenutno na All files (6) prikazano je 6 fajlova
+19/Dec/2020 23:19:39,344- MyFilesAddFiles: Trenutno na Image (5) prikazano je 5 fajlova
+19/Dec/2020 23:19:40,872- MyFilesAddFiles: Trenutno na Music (1) prikazano je 1 fajlova
+19/Dec/2020 23:20:34,371- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:20:38,651- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:21:00,313- MyFilesAddFiles: Media is uploaded
+19/Dec/2020 23:21:00,507- MyFilesAddFiles: Trenutno na All files (9) prikazano je 9 fajlova
+19/Dec/2020 23:21:10,571- MyFilesAddFiles: Load more files button is not on page
+19/Dec/2020 23:21:10,668- MyFilesAddFiles: Trenutno na All files (9) prikazano je 9 fajlova
+19/Dec/2020 23:21:12,274- MyFilesAddFiles: Trenutno na Image (7) prikazano je 7 fajlova
+19/Dec/2020 23:21:13,740- MyFilesAddFiles: Trenutno na Music (2) prikazano je 2 fajlova
+19/Dec/2020 23:21:13,893- MyFilesAddFiles: Trenutno zauzece prostora je: Storage: 6.72MB of 512MB used
+19/Dec/2020 23:21:13,894- MyFilesAddFiles: *************************************************************************
+19/Dec/2020 23:21:31,212- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:21:35,017- MyFilesAddFiles: My Files Page successfully opened
+19/Dec/2020 23:21:56,629- MyFilesAddFiles: Media is uploaded
+19/Dec/2020 23:21:56,817- MyFilesAddFiles: Trenutno na All files (12) prikazano je 12 fajlova
+19/Dec/2020 23:22:06,894- MyFilesAddFiles: Load more files button is not on page
+19/Dec/2020 23:22:06,982- MyFilesAddFiles: Trenutno na All files (12) prikazano je 12 fajlova
+19/Dec/2020 23:22:08,538- MyFilesAddFiles: Trenutno na Image (9) prikazano je 9 fajlova
+19/Dec/2020 23:22:09,937- MyFilesAddFiles: Trenutno na Music (3) prikazano je 3 fajlova
+19/Dec/2020 23:22:10,147- MyFilesAddFiles: Trenutno zauzece prostora je: Storage: 10.06MB of 512MB used
+19/Dec/2020 23:22:10,148- MyFilesAddFiles: *************************************************************************
+19/Dec/2020 23:28:01,891- Login_logout: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:28:03,703- Login_logout: Successfully logged out and login page is displayed
+19/Dec/2020 23:28:03,705- Login_logout: *********************************************************************************************
+19/Dec/2020 23:29:33,783- Login_logout: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:29:35,749- Login_logout: Successfully logged out and login page is displayed
+19/Dec/2020 23:29:35,750- Login_logout: *********************************************************************************************
+19/Dec/2020 23:31:21,065- Login_logout: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:31:22,277- Login_logout: Successfully logged out and login page is displayed
+19/Dec/2020 23:31:22,279- Login_logout: *********************************************************************************************
+19/Dec/2020 23:32:19,502- Login_logout: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:32:20,738- Login_logout: Successfully logged out and login page is displayed
+19/Dec/2020 23:32:20,740- Login_logout: *********************************************************************************************
+19/Dec/2020 23:40:59,073- Login_logout: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:41:00,395- Login_logout: Successfully logged out and login page is displayed
+19/Dec/2020 23:41:00,399- Login_logout: *********************************************************************************************
+19/Dec/2020 23:53:49,995- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:53:53,537- MyFavoritesPreview: Na Favorite stranici je prikazano 2 media
+19/Dec/2020 23:55:54,356- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:55:58,823- MyFavoritesPreview: Na Favorite stranici je prikazano 2 media
+19/Dec/2020 23:56:08,980- MyFavoritesPreview: My Favorites 1
+19/Dec/2020 23:58:51,577- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+19/Dec/2020 23:58:56,143- MyFavoritesPreview: Na Favorite stranici je prikazano 2 media
+20/Dec/2020 00:10:42,122- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 00:10:54,227- MyFavoritesPreview: Na Favorite stranici je prikazano 2 media
+20/Dec/2020 00:15:22,380- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 00:15:36,174- MyFavoritesPreview: Na Favorite stranici je prikazano 0 media
+20/Dec/2020 00:16:44,784- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 00:16:48,171- MyFavoritesPreview: Na Favorite stranici je prikazano 1 media
+20/Dec/2020 00:16:48,631- MyFavoritesPreview: My Favorites 1
+20/Dec/2020 00:16:52,792- MyFavoritesPreview: Na Favorite stranici je prikazano 2 media
+20/Dec/2020 00:16:53,031- MyFavoritesPreview: My Favorites 2
+20/Dec/2020 00:16:54,974- MyFavoritesPreview: All favorite media are deleted
+20/Dec/2020 18:41:32,118- Registration: SignUp Page successfully opened
+20/Dec/2020 18:41:36,922- Registration: Korisnik Filip sa emailom yuatr@yopmail.com je uspesno registrovan!
+20/Dec/2020 18:41:36,924- Registration: *********************************************************************************************
+20/Dec/2020 18:42:59,058- RegistrationValidationChecks: SignUp Page successfully opened
+20/Dec/2020 18:43:00,505- RegistrationValidationChecks: Name validation correct: Name can't be blank
+20/Dec/2020 18:43:01,068- RegistrationValidationChecks: Email validation correct: Email address can’t be blank
+20/Dec/2020 18:43:01,274- RegistrationValidationChecks: Password validation correct: Password can’t be blank
+20/Dec/2020 18:43:01,625- RegistrationValidationChecks: Confirm password validation correct: Password can’t be blank
+20/Dec/2020 18:43:05,180- RegistrationValidationChecks: Email validation correct: Email must be a valid email address.
+20/Dec/2020 18:43:07,505- RegistrationValidationChecks: Password validation is correct Password must have at least 6 characters
+20/Dec/2020 18:43:10,406- RegistrationValidationChecks: ConfirmPassword validation is correct: Password and confirmation password do not match
+20/Dec/2020 18:43:13,900- RegistrationValidationChecks: Email validation is correct: The email has already been taken.
+20/Dec/2020 18:43:13,901- RegistrationValidationChecks: *********************************************************************************************
+20/Dec/2020 18:44:42,238- RegistrationLinksCheck: SignUp Page successfully opened
+20/Dec/2020 18:44:42,574- RegistrationLinksCheck: Total number of WebPage links present on webpage is 4
+20/Dec/2020 18:44:42,641- RegistrationLinksCheck: Total number of Image links present on webpage is 3
+20/Dec/2020 18:44:48,973- RegistrationLinksCheck: Connection Status for URL https://pyp.stage.ggstud.io/ is 200
+20/Dec/2020 18:44:49,603- RegistrationLinksCheck: Connection Status for URL https://pyp.stage.ggstud.io/login is 200
+20/Dec/2020 18:44:50,247- RegistrationLinksCheck: Connection Status for URL https://pyp.stage.ggstud.io/# is 200
+20/Dec/2020 18:44:50,965- RegistrationLinksCheck: Connection Status for URL https://pyp.stage.ggstud.io/# is 200
+20/Dec/2020 18:44:51,080- RegistrationLinksCheck: *********************************************************************************************
+20/Dec/2020 18:47:04,458- LoginValidationChecks: Email validation correct: Email address can't be blank
+20/Dec/2020 18:47:04,744- LoginValidationChecks: Password validation correct: Password can’t be blank
+20/Dec/2020 18:47:06,366- LoginValidationChecks: Email validation correct: Email must be a valid email address.
+20/Dec/2020 18:47:07,693- LoginValidationChecks: Password validation correct: Password must have at least 6 characters
+20/Dec/2020 18:47:09,843- LoginValidationChecks: We couldn't find an account matching the username and password you entered. Please check your username and password and try again.
+20/Dec/2020 18:47:09,844- LoginValidationChecks: *********************************************************************************************
+20/Dec/2020 18:47:55,650- LoginPageLinksCheck: Total number of WebPage links present on webpage is 3
+20/Dec/2020 18:47:55,772- LoginPageLinksCheck: Total number of Image links present on webpage is 3
+20/Dec/2020 18:47:57,307- LoginPageLinksCheck: Connection Status for URL https://pyp.stage.ggstud.io/ is 200
+20/Dec/2020 18:47:58,128- LoginPageLinksCheck: Connection Status for URL https://pyp.stage.ggstud.io/register is 200
+20/Dec/2020 18:47:58,651- LoginPageLinksCheck: Connection Status for URL https://pyp.stage.ggstud.io/forgot-password is 200
+20/Dec/2020 18:47:58,747- LoginPageLinksCheck: *********************************************************************************************
+20/Dec/2020 18:48:45,015- Login_logout: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 18:48:46,584- Login_logout: Successfully logged out and login page is displayed
+20/Dec/2020 18:48:46,586- Login_logout: *********************************************************************************************
+20/Dec/2020 18:51:31,730- ForgotPasswordValidationChecks: Forgot password page is opened
+20/Dec/2020 18:51:32,836- ForgotPasswordValidationChecks: Email validation correct: Email address can't be blank
+20/Dec/2020 18:51:34,148- ForgotPasswordValidationChecks: Email validation correct: Email must be a valid email address.
+20/Dec/2020 18:51:35,338- ForgotPasswordValidationChecks: The given data was invalid.
+20/Dec/2020 18:51:35,339- ForgotPasswordValidationChecks: *********************************************************************************************
+20/Dec/2020 18:57:45,870- ForgotPassword: Forgot password page is opened
+20/Dec/2020 18:57:50,586- ForgotPassword: Instructions to reset your password have been sent to you. Please check your email. If you still don’t see it, please check your spam folder before getting in touch!
+20/Dec/2020 18:58:57,773- ForgotPassword: New Password validation correct: Password can’t be blank
+20/Dec/2020 18:58:58,033- ForgotPassword: Confirm new password validation correct: Password can’t be blank
+20/Dec/2020 18:58:59,185- ForgotPassword: New password validation correct: Password must have at least 6 characters
+20/Dec/2020 18:59:00,829- ForgotPassword: Confirm password validation correct: Password and confirmation password do not match
+20/Dec/2020 18:59:14,954- ForgotPassword: Korisnik nije ulogovan
+20/Dec/2020 18:59:14,956- ForgotPassword: *********************************************************************************************
+20/Dec/2020 19:18:25,757- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:18:26,042- TemplatesCategories: Before clicking on categories we have 2 displayed videos
+20/Dec/2020 19:18:40,793- TemplatesCategories: After selecting option laboriosam we have 0 displayed videos
+20/Dec/2020 19:18:43,295- TemplatesCategories: After selecting laboriosam options we have 2 displayed videos
+20/Dec/2020 19:18:53,529- TemplatesCategories: Before clicking on categories we have 2 displayed videos
+20/Dec/2020 19:22:16,385- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:22:16,652- TemplatesCategories: Before clicking on categories we have 2 displayed videos
+20/Dec/2020 19:22:30,247- TemplatesCategories: After selecting option laboriosam we have 0 displayed videos
+20/Dec/2020 19:22:32,997- TemplatesCategories: After selecting adipisci options we have 1 displayed videos
+20/Dec/2020 19:22:35,501- TemplatesCategories: After clearing filter we have 2 displayed videos
+20/Dec/2020 19:22:35,584- TemplatesCategories: Before clicking on categories we have 2 displayed videos
+20/Dec/2020 19:22:48,626- TemplatesCategories: After selecting option deleniti we have 0 displayed videos
+20/Dec/2020 19:22:48,777- TemplatesCategories: No result found
+20/Dec/2020 19:22:50,935- TemplatesCategories: After clicking on clear filter button we have 2 displayed videos
+20/Dec/2020 19:22:50,936- TemplatesCategories: *********************************************************************************************
+20/Dec/2020 19:24:19,464- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:24:21,798- TemplatesVideoFormat: Video is in format 16:9 with Height: 192 and Width: 341
+20/Dec/2020 19:24:25,318- TemplatesVideoFormat: Video is in format 1:1 with Height: 192 and Width: 341
+20/Dec/2020 19:24:25,320- TemplatesVideoFormat: Video format is not correct!
+20/Dec/2020 19:24:28,739- TemplatesVideoFormat: Video is in format 9:16 with Height: 139 and Width: 247
+20/Dec/2020 19:24:28,740- TemplatesVideoFormat: Video changed format to 9:16 successfully
+20/Dec/2020 19:24:28,741- TemplatesVideoFormat: *********************************************************************************************
+20/Dec/2020 19:25:35,604- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:25:37,163- TemplatesSearchBar: After search by word logo number of presented videos are: 2
+20/Dec/2020 19:25:37,520- TemplatesSearchBar: 2 results for logo
+20/Dec/2020 19:25:38,896- TemplatesSearchBar: No result found after search logo123
+20/Dec/2020 19:25:38,897- TemplatesSearchBar: *********************************************************************************************
+20/Dec/2020 19:26:31,862- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:26:33,176- TemplatesDurationFilter: Before clicking on duration filter we have 2 displayed videos
+20/Dec/2020 19:26:39,176- TemplatesDurationFilter: No results after selecting first option 'Short <15s' 
+20/Dec/2020 19:26:53,407- TemplatesDurationFilter: After clicking Medium 15-30s option 2 videos are displayed
+20/Dec/2020 19:26:57,943- TemplatesDurationFilter: No results after selecting third option 'Long >30s' 
+20/Dec/2020 19:26:58,500- TemplatesDurationFilter: *********************************************************************
+20/Dec/2020 19:26:59,855- TemplatesNumberOfPhotosFilter: Before clicking on number of photos filter we have 2 displayed videos
+20/Dec/2020 19:27:15,070- TemplatesNumberOfPhotosFilter: After clicking <10 option 2 videos are displayed
+20/Dec/2020 19:27:19,007- TemplatesNumberOfPhotosFilter: No results after selecting second option '10-20' 
+20/Dec/2020 19:27:23,003- TemplatesNumberOfPhotosFilter: No results after selecting third option '>20' 
+20/Dec/2020 19:27:23,492- TemplatesNumberOfPhotosFilter: *********************************************************************
+20/Dec/2020 19:27:24,868- TemplatesMoodFilter: Before clicking on mood filter we have 2 displayed videos
+20/Dec/2020 19:27:29,891- TemplatesMoodFilter: No results after selecting mood option possimus
+20/Dec/2020 19:27:44,328- TemplatesMoodFilter: After clicking deleniti option 1 videos are displayed
+20/Dec/2020 19:27:58,662- TemplatesMoodFilter: After clicking ut option 1 videos are displayed
+20/Dec/2020 19:27:59,011- TemplatesMoodFilter: *********************************************************************
+20/Dec/2020 19:28:00,575- TemplatesSpeedsFilter: Before clicking on speeds filter we have 2 displayed videos
+20/Dec/2020 19:28:15,761- TemplatesSpeedsFilter: After clicking Fast option 1 videos are displayed
+20/Dec/2020 19:28:29,819- TemplatesSpeedsFilter: After clicking Normal option 1 videos are displayed
+20/Dec/2020 19:28:43,932- TemplatesSpeedsFilter: After clicking Slow option 1 videos are displayed
+20/Dec/2020 19:28:44,306- TemplatesSpeedsFilter: *********************************************************************
+20/Dec/2020 19:28:45,909- TemplatesRandomAllFilters: Before clicking on duration filter we have 2 displayed videos
+20/Dec/2020 19:28:48,484- TemplatesRandomAllFilters: Medium (15-30s) opcija je izabrana
+20/Dec/2020 19:28:49,223- TemplatesRandomAllFilters: 10-20 opcija je izabrana
+20/Dec/2020 19:28:50,059- TemplatesRandomAllFilters: sed opcija je izabrana
+20/Dec/2020 19:28:50,600- TemplatesRandomAllFilters: Normal opcija je izabrana
+20/Dec/2020 19:28:50,968- TemplatesRandomAllFilters: No results after selecting this filters
+20/Dec/2020 19:28:50,969- TemplatesRandomAllFilters: ******************************************************************************************
+20/Dec/2020 19:32:38,088- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:32:40,198- MyProfileAccount: My Profile Page successfully opened
+20/Dec/2020 19:32:42,073- MyProfileAccount: Account updated successfully
+20/Dec/2020 19:32:43,834- MyProfileAccount: Crop Image successfully opened
+20/Dec/2020 19:32:50,581- MyProfileAccount: Avatar picture isnt deleted
+20/Dec/2020 19:32:53,693- MyProfileAccount: Crop Image successfully opened
+20/Dec/2020 19:32:56,770- MyProfileAccount: *********************************************************************************************
+20/Dec/2020 19:33:49,807- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:33:51,578- MyProfileEmailNotification: My Profile Page successfully opened
+20/Dec/2020 19:33:54,899- MyProfileEmailNotification: Email notification updated
+20/Dec/2020 19:36:50,090- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:36:52,136- MyProfilePasswordValidationChecks: My Profile Page successfully opened
+20/Dec/2020 19:36:53,054- MyProfilePasswordValidationChecks: Password validation correct: Password can’t be blank
+20/Dec/2020 19:36:53,410- MyProfilePasswordValidationChecks: New password validation correct: New password can’t be blank
+20/Dec/2020 19:36:53,753- MyProfilePasswordValidationChecks: Confirm password validation correct: Password can’t be blank
+20/Dec/2020 19:36:56,422- MyProfilePasswordValidationChecks: Old Password validation correct: The password is wrong.
+20/Dec/2020 19:36:57,945- MyProfilePasswordValidationChecks: New Password validation correct: New password must have at least 6 characters
+20/Dec/2020 19:36:59,485- MyProfilePasswordValidationChecks: Confirm Password validation correct: New passwords do not match. Please try again
+20/Dec/2020 19:36:59,486- MyProfilePasswordValidationChecks: *********************************************************************************************
+20/Dec/2020 19:38:25,778- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:38:27,516- MyProfilePassword: My Profile Page successfully opened
+20/Dec/2020 19:38:30,055- MyProfilePassword: Password updated successfully
+20/Dec/2020 19:38:31,761- MyProfilePassword: Passwor return to old Password updated successfully
+20/Dec/2020 19:38:31,762- MyProfilePassword: *********************************************************************************************
+20/Dec/2020 19:38:48,349- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:53:55,205- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:54:00,935- GetInspiredNewestAndPopularFilter: Na stranici je prikazano 16 template-a dok je Newest selektovan
+20/Dec/2020 19:54:17,615- GetInspiredNewestAndPopularFilter: After clicking Popular option 16 videos are displayed
+20/Dec/2020 19:54:17,617- GetInspiredNewestAndPopularFilter: *********************************************************************************************
+20/Dec/2020 19:59:08,609- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 19:59:13,231- GetInspiredSearchBar: Na stranici je prikazano 16 template-a pre search-a
+20/Dec/2020 19:59:15,892- GetInspiredSearchBar: Nakon unosa aaa u search bar: No result found
+Try adjusting your search to find what you're looking for
+20/Dec/2020 19:59:21,443- GetInspiredSearchBar: Nakon unosa test u search bar, filtirano je: 19 results for test , dok je na stranici prikazano 16 template-a
+20/Dec/2020 19:59:29,025- GetInspiredSearchBar: Na stranici je prikazano 16 template-a pre load more templates
+20/Dec/2020 19:59:35,712- GetInspiredSearchBar: Na stranici je prikazano 19 template-a nakon load more templates
+20/Dec/2020 19:59:46,044- GetInspiredSearchBar: No more load templates button
+20/Dec/2020 19:59:46,045- GetInspiredSearchBar: *********************************************************************************************
+20/Dec/2020 20:03:09,579- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:03:16,514- GetInspiredDurationFilter: Before clicking on duration filter we have 16 displayed videos
+20/Dec/2020 20:03:25,794- GetInspiredDurationFilter: No results after selecting first option 'Short <15s' 
+20/Dec/2020 20:03:43,670- GetInspiredDurationFilter: After clicking Medium 15-30s option 16 videos are displayed
+20/Dec/2020 20:03:51,480- GetInspiredDurationFilter: No results after selecting third option 'Long >30s' 
+20/Dec/2020 20:03:51,996- GetInspiredDurationFilter: *********************************************************************
+20/Dec/2020 20:03:54,383- GetInspiredNumberOfPhotosFilter: Before clicking on number of photos filter we have 16 displayed videos
+20/Dec/2020 20:04:10,544- GetInspiredNumberOfPhotosFilter: After clicking <10 option 16 videos are displayed
+20/Dec/2020 20:04:16,695- GetInspiredNumberOfPhotosFilter: No results after selecting second option '10-20' 
+20/Dec/2020 20:04:23,838- GetInspiredNumberOfPhotosFilter: No results after selecting third option '>20' 
+20/Dec/2020 20:04:24,504- GetInspiredNumberOfPhotosFilter: *********************************************************************
+20/Dec/2020 20:04:26,442- GetInspiredMoodFilter: Before clicking on mood filter we have 16 displayed videos
+20/Dec/2020 20:04:32,085- GetInspiredMoodFilter: No results after selecting first mood option possimus
+20/Dec/2020 20:04:49,296- GetInspiredMoodFilter: After clicking deleniti option 5 videos are displayed
+20/Dec/2020 20:05:07,461- GetInspiredMoodFilter: After clicking incidunt option 16 videos are displayed
+20/Dec/2020 20:05:08,076- GetInspiredMoodFilter: *********************************************************************
+20/Dec/2020 20:05:10,069- GetInspiredSpeedsFilter: Before clicking on speeds filter we have 16 displayed videos
+20/Dec/2020 20:05:25,753- GetInspiredSpeedsFilter: After clicking Fast option 16 videos are displayed
+20/Dec/2020 20:05:42,550- GetInspiredSpeedsFilter: After clicking Normal option 5 videos are displayed
+20/Dec/2020 20:05:59,713- GetInspiredSpeedsFilter: After clicking Slow option 5 videos are displayed
+20/Dec/2020 20:06:02,297- GetInspiredRandomAllFilters: Before clicking on filters we have: 16 videos
+20/Dec/2020 20:06:04,875- GetInspiredRandomAllFilters: Long (>30s) opcija je izabrana
+20/Dec/2020 20:06:05,768- GetInspiredRandomAllFilters: > 20 opcija je izabrana
+20/Dec/2020 20:06:06,460- GetInspiredRandomAllFilters: possimus opcija je izabrana
+20/Dec/2020 20:06:07,051- GetInspiredRandomAllFilters: Slow opcija je izabrana
+20/Dec/2020 20:06:07,405- GetInspiredRandomAllFilters: No results after selecting this filters
+20/Dec/2020 20:06:07,406- GetInspiredRandomAllFilters: ******************************************************************************************
+20/Dec/2020 20:07:00,057- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:07:04,270- MyFavoritesPreview: Na Favorite stranici je prikazano 1 media
+20/Dec/2020 20:07:04,553- MyFavoritesPreview: My Favorites 1
+20/Dec/2020 20:07:09,454- MyFavoritesPreview: Na Favorite stranici je prikazano 2 media
+20/Dec/2020 20:07:09,695- MyFavoritesPreview: My Favorites 2
+20/Dec/2020 20:07:11,715- MyFavoritesPreview: All favorite media are deleted
+20/Dec/2020 20:07:58,661- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:08:01,006- MyFavoritesSearchBar: There is no favorite media on page, need to select on template page
+20/Dec/2020 20:08:06,880- MyFavoritesSearchBar: After selection on template page there is 2 media
+20/Dec/2020 20:08:08,341- MyFavoritesSearchBar: After searching logo there is 2 media
+20/Dec/2020 20:08:08,686- MyFavoritesSearchBar: 2 results for logo
+20/Dec/2020 20:08:19,203- MyFavoritesSearchBar: After searching abcd there is 0 media
+20/Dec/2020 20:08:19,312- MyFavoritesSearchBar: 0 results for abcd
+20/Dec/2020 20:09:15,989- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:09:29,049- MyFavoritesVideoFormat: There is 2 media on page
+20/Dec/2020 20:09:29,239- MyFavoritesVideoFormat: Video is in format 16:9 with Height: 192 and Width: 341
+20/Dec/2020 20:09:32,097- MyFavoritesVideoFormat: Video is in format 1:1 with Height: 192 and Width: 341
+20/Dec/2020 20:09:32,098- MyFavoritesVideoFormat: Video format is not correct!
+20/Dec/2020 20:09:35,292- MyFavoritesVideoFormat: Video is in format 9:16 with Height: 139 and Width: 247
+20/Dec/2020 20:09:35,293- MyFavoritesVideoFormat: Video changed format to 9:16 successfully
+20/Dec/2020 20:09:35,294- MyFavoritesVideoFormat: *********************************************************************************************
+20/Dec/2020 20:12:18,475- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:12:23,586- MyFilesAddFiles: My Files Page successfully opened
+20/Dec/2020 20:12:45,819- MyFilesAddFiles: Media is uploaded
+20/Dec/2020 20:12:46,023- MyFilesAddFiles: Trenutno na All files (15) prikazano je 15 fajlova
+20/Dec/2020 20:12:56,080- MyFilesAddFiles: Load more files button is not on page
+20/Dec/2020 20:12:56,180- MyFilesAddFiles: Trenutno na All files (15) prikazano je 15 fajlova
+20/Dec/2020 20:12:57,753- MyFilesAddFiles: Trenutno na Image (12) prikazano je 12 fajlova
+20/Dec/2020 20:12:59,274- MyFilesAddFiles: Trenutno na Music (3) prikazano je 3 fajlova
+20/Dec/2020 20:12:59,491- MyFilesAddFiles: Trenutno zauzece prostora je: Storage: 10.08MB of 512MB used
+20/Dec/2020 20:12:59,492- MyFilesAddFiles: *************************************************************************
+20/Dec/2020 20:13:15,196- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:13:18,963- MyFilesAddFiles: My Files Page successfully opened
+20/Dec/2020 20:13:41,019- MyFilesAddFiles: Media is uploaded
+20/Dec/2020 20:13:41,268- MyFilesAddFiles: Trenutno na All files (18) prikazano je 18 fajlova
+20/Dec/2020 20:13:51,328- MyFilesAddFiles: Load more files button is not on page
+20/Dec/2020 20:13:51,429- MyFilesAddFiles: Trenutno na All files (18) prikazano je 18 fajlova
+20/Dec/2020 20:13:53,023- MyFilesAddFiles: Trenutno na Image (14) prikazano je 14 fajlova
+20/Dec/2020 20:13:54,458- MyFilesAddFiles: Trenutno na Music (4) prikazano je 4 fajlova
+20/Dec/2020 20:13:54,603- MyFilesAddFiles: Trenutno zauzece prostora je: Storage: 13.42MB of 512MB used
+20/Dec/2020 20:13:54,604- MyFilesAddFiles: *************************************************************************
+20/Dec/2020 20:14:36,078- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:14:40,460- MyFilesAddFilesFromStock: My Files Page successfully opened
+20/Dec/2020 20:14:40,538- MyFilesAddFilesFromStock: Pre stock upload-a ima 18 media
+20/Dec/2020 20:15:03,472- MyFilesAddFilesFromStock: Media is uploaded
+20/Dec/2020 20:15:08,175- MyFilesAddFilesFromStock: Nakon stock upload-a na All files (19)ima 18 media
+20/Dec/2020 20:15:08,338- MyFilesAddFilesFromStock: Trenutno zauzece prostora je: Storage: 17.53MB of 512MB used
+20/Dec/2020 20:15:08,339- MyFilesAddFilesFromStock: *************************************************************************
+20/Dec/2020 20:16:32,489- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:16:37,841- MyFilesSearchBar: My Files Page successfully opened
+20/Dec/2020 20:16:37,926- MyFilesSearchBar: Pre search-a ima 18 media
+20/Dec/2020 20:16:40,361- MyFilesSearchBar: Nakon unosa a prikazano je 18 media
+20/Dec/2020 20:16:42,912- MyFilesSearchBar: Pre search-a ima 18 media
+20/Dec/2020 20:16:53,976- MyFilesSearchBar: Nakon unosa abcd prikazano je 0 media
+20/Dec/2020 20:16:54,128- MyFilesSearchBar: 
+20/Dec/2020 20:16:54,129- MyFilesSearchBar: **********************************************************************************
+20/Dec/2020 20:22:13,743- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:22:17,643- MyFilesSearchBar: My Files Page successfully opened
+20/Dec/2020 20:22:17,718- MyFilesSearchBar: Pre search-a ima 18 media
+20/Dec/2020 20:22:20,099- MyFilesSearchBar: Nakon unosa a prikazano je 18 media
+20/Dec/2020 20:22:22,651- MyFilesSearchBar: Pre search-a ima 18 media
+20/Dec/2020 20:22:33,803- MyFilesSearchBar: Nakon unosa abcd prikazano je 0 media
+20/Dec/2020 20:22:33,955- MyFilesSearchBar: 
+20/Dec/2020 20:22:33,956- MyFilesSearchBar: **********************************************************************************
+20/Dec/2020 20:23:40,993- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:23:45,433- MyFilesSearchBar: My Files Page successfully opened
+20/Dec/2020 20:23:45,611- MyFilesSearchBar: Pre search-a ima 18 media
+20/Dec/2020 20:23:48,383- MyFilesSearchBar: Nakon unosa a prikazano je 18 media
+20/Dec/2020 20:23:50,921- MyFilesSearchBar: Pre search-a ima 18 media
+20/Dec/2020 20:24:02,026- MyFilesSearchBar: Nakon unosa abcd prikazano je 0 media
+20/Dec/2020 20:24:02,320- MyFilesSearchBar: No result found
+Try adjusting your search to find what you're looking for
+20/Dec/2020 20:24:02,321- MyFilesSearchBar: **********************************************************************************
+20/Dec/2020 20:25:34,114- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:25:38,594- MyFilesSortFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:25:38,999- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 061fed5fe15853a1f8c606...
+20/Dec/2020 20:25:39,166- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 214b60f093a5097483e228...
+20/Dec/2020 20:25:39,319- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 27f2ece8a6a496b65da1ac...
+20/Dec/2020 20:25:39,493- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 529b08e92c79b1639f546e...
+20/Dec/2020 20:25:39,670- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 67474411d5b3e6001cffe7...
+20/Dec/2020 20:25:39,812- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 68e8d53450f975fe0f8029...
+20/Dec/2020 20:25:40,002- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 7102ec108a0df3d346f6f3...
+20/Dec/2020 20:25:40,137- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media 75936a301a3baffa2a6d13...
+20/Dec/2020 20:25:40,306- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media aaa.png
+20/Dec/2020 20:25:40,439- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media b6b91b8f69a8023191924e...
+20/Dec/2020 20:25:40,640- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media c19e96b7ddb986a488944d...
+20/Dec/2020 20:25:40,768- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media c8e4f43649e70a13290d32...
+20/Dec/2020 20:25:40,947- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media d26594504fa302c2d32cc9...
+20/Dec/2020 20:25:41,081- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media d8b2d6aec4dc2a98ade511...
+20/Dec/2020 20:25:41,249- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media da477195fd41bfddec0eae...
+20/Dec/2020 20:25:41,410- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media e41ea41fcd0d703b4ead41...
+20/Dec/2020 20:25:41,611- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media e9839030f35ac83968c94b...
+20/Dec/2020 20:25:41,756- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media f111565ce6c005628cc84e...
+20/Dec/2020 20:25:41,758- MyFilesSortFunctionalities: -----------------------------------------------------------------
+20/Dec/2020 20:25:43,708- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u pyp_default
+20/Dec/2020 20:25:43,892- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u b6b91b8f69a8023191924e...
+20/Dec/2020 20:25:44,049- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 529b08e92c79b1639f546e...
+20/Dec/2020 20:25:44,169- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 7102ec108a0df3d346f6f3...
+20/Dec/2020 20:25:44,341- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u f111565ce6c005628cc84e...
+20/Dec/2020 20:25:44,477- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 061fed5fe15853a1f8c606...
+20/Dec/2020 20:25:44,569- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 67474411d5b3e6001cffe7...
+20/Dec/2020 20:25:44,686- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 75936a301a3baffa2a6d13...
+20/Dec/2020 20:25:44,821- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u c19e96b7ddb986a488944d...
+20/Dec/2020 20:25:44,950- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 68e8d53450f975fe0f8029...
+20/Dec/2020 20:25:45,060- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u d8b2d6aec4dc2a98ade511...
+20/Dec/2020 20:25:45,175- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 214b60f093a5097483e228...
+20/Dec/2020 20:25:45,282- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u d26594504fa302c2d32cc9...
+20/Dec/2020 20:25:45,371- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u da477195fd41bfddec0eae...
+20/Dec/2020 20:25:45,467- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u c8e4f43649e70a13290d32...
+20/Dec/2020 20:25:45,562- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u 27f2ece8a6a496b65da1ac...
+20/Dec/2020 20:25:45,692- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u e41ea41fcd0d703b4ead41...
+20/Dec/2020 20:25:45,816- MyFilesSortFunctionalities: Redom su ispisana sortirana imena media po date-u e9839030f35ac83968c94b...
+20/Dec/2020 20:25:45,820- MyFilesSortFunctionalities: -----------------------------------------------------------------
+20/Dec/2020 20:25:54,208- MyFilesSortFunctionalities: Media pyp_default and size is  4.116 MB
+20/Dec/2020 20:25:54,242- MyFilesSortFunctionalities: Media 7102ec108a0df3d346f6f3... and size is  3.319 MB
+20/Dec/2020 20:25:54,275- MyFilesSortFunctionalities: Media 27f2ece8a6a496b65da1ac... and size is  3.319 MB
+20/Dec/2020 20:25:54,307- MyFilesSortFunctionalities: Media d26594504fa302c2d32cc9... and size is  3.319 MB
+20/Dec/2020 20:25:54,338- MyFilesSortFunctionalities: Media 68e8d53450f975fe0f8029... and size is  3.319 MB
+20/Dec/2020 20:25:54,368- MyFilesSortFunctionalities: Media 75936a301a3baffa2a6d13... and size is  0.02 MB
+20/Dec/2020 20:25:54,404- MyFilesSortFunctionalities: Media f111565ce6c005628cc84e... and size is  0.02 MB
+20/Dec/2020 20:25:54,454- MyFilesSortFunctionalities: Media 529b08e92c79b1639f546e... and size is  0.02 MB
+20/Dec/2020 20:25:54,488- MyFilesSortFunctionalities: Media aaa.png and size is  0.02 MB
+20/Dec/2020 20:25:54,524- MyFilesSortFunctionalities: Media e41ea41fcd0d703b4ead41... and size is  0.02 MB
+20/Dec/2020 20:25:54,553- MyFilesSortFunctionalities: Media c8e4f43649e70a13290d32... and size is  0.02 MB
+20/Dec/2020 20:25:54,581- MyFilesSortFunctionalities: Media 214b60f093a5097483e228... and size is  0.02 MB
+20/Dec/2020 20:25:54,611- MyFilesSortFunctionalities: Media c19e96b7ddb986a488944d... and size is  0 MB
+20/Dec/2020 20:25:54,646- MyFilesSortFunctionalities: Media 67474411d5b3e6001cffe7... and size is  0 MB
+20/Dec/2020 20:25:54,675- MyFilesSortFunctionalities: Media 061fed5fe15853a1f8c606... and size is  0 MB
+20/Dec/2020 20:25:54,704- MyFilesSortFunctionalities: Media b6b91b8f69a8023191924e... and size is  0 MB
+20/Dec/2020 20:25:54,738- MyFilesSortFunctionalities: Media e9839030f35ac83968c94b... and size is  0 MB
+20/Dec/2020 20:25:54,768- MyFilesSortFunctionalities: Media da477195fd41bfddec0eae... and size is  0 MB
+20/Dec/2020 20:25:54,804- MyFilesSortFunctionalities: ***********************************************************************
+20/Dec/2020 20:26:46,588- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:26:50,797- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:26:53,815- MyFilesFunctionalities: Media 061fed5fe15853a1f8c6065fdf1b44fc.png je u view modu
+20/Dec/2020 20:26:57,904- MyFilesFunctionalities: Media 061fed5fe15853a1f8c6065fdf1b44fc.png je u view modu
+20/Dec/2020 20:27:00,519- MyFilesFunctionalities: Media sa imenom 061fed5fe15853a1f8c606... je u rename modu
+20/Dec/2020 20:27:03,721- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:27:05,945- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:29:26,760- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:29:31,506- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:29:35,042- MyFilesFunctionalities: Media 214b60f093a5097483e2284396da179c.png je u view modu
+20/Dec/2020 20:29:39,405- MyFilesFunctionalities: Media 214b60f093a5097483e2284396da179c.png je u view modu
+20/Dec/2020 20:29:42,511- MyFilesFunctionalities: Media sa imenom 214b60f093a5097483e228... je u rename modu
+20/Dec/2020 20:29:45,941- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:29:48,161- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:34:20,430- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:34:24,517- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:34:27,255- MyFilesFunctionalities: Media 27f2ece8a6a496b65da1ac22a6e57f8e.mpeg je u view modu
+20/Dec/2020 20:34:31,490- MyFilesFunctionalities: Media 27f2ece8a6a496b65da1ac22a6e57f8e.mpeg je u view modu
+20/Dec/2020 20:34:34,620- MyFilesFunctionalities: Media sa imenom 27f2ece8a6a496b65da1ac... je u rename modu
+20/Dec/2020 20:34:37,878- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:34:40,125- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:35:59,955- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:36:04,701- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:36:07,959- MyFilesFunctionalities: Media 529b08e92c79b1639f546e30ff04a7fb.png je u view modu
+20/Dec/2020 20:36:11,939- MyFilesFunctionalities: Media 529b08e92c79b1639f546e30ff04a7fb.png je u view modu
+20/Dec/2020 20:36:14,640- MyFilesFunctionalities: Media sa imenom 529b08e92c79b1639f546e... je u rename modu
+20/Dec/2020 20:36:17,797- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:36:20,050- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:37:57,546- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:38:02,009- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:38:04,547- MyFilesFunctionalities: Media 67474411d5b3e6001cffe73107cf9931.png je u view modu
+20/Dec/2020 20:38:08,212- MyFilesFunctionalities: Media 67474411d5b3e6001cffe73107cf9931.png je u view modu
+20/Dec/2020 20:38:11,075- MyFilesFunctionalities: Media sa imenom 67474411d5b3e6001cffe7... je u rename modu
+20/Dec/2020 20:38:14,120- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:38:16,249- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:39:31,558- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:39:37,233- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:39:40,354- MyFilesFunctionalities: Media 68e8d53450f975fe0f8029b99b8f31ea.mpeg je u view modu
+20/Dec/2020 20:39:44,412- MyFilesFunctionalities: Media 68e8d53450f975fe0f8029b99b8f31ea.mpeg je u view modu
+20/Dec/2020 20:39:47,506- MyFilesFunctionalities: Media sa imenom 68e8d53450f975fe0f8029... je u rename modu
+20/Dec/2020 20:39:50,726- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:39:52,849- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:42:10,727- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:42:14,638- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:42:17,782- MyFilesFunctionalities: Media 7102ec108a0df3d346f6f35e07a49589.mpeg je u view modu
+20/Dec/2020 20:42:22,048- MyFilesFunctionalities: Media 7102ec108a0df3d346f6f35e07a49589.mpeg je u view modu
+20/Dec/2020 20:42:24,884- MyFilesFunctionalities: Media sa imenom 7102ec108a0df3d346f6f3... je u rename modu
+20/Dec/2020 20:42:28,047- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:42:30,358- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:44:30,149- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:44:34,784- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:44:37,414- MyFilesFunctionalities: Media 75936a301a3baffa2a6d130531532d3d.png je u view modu
+20/Dec/2020 20:44:41,076- MyFilesFunctionalities: Media 75936a301a3baffa2a6d130531532d3d.png je u view modu
+20/Dec/2020 20:44:43,518- MyFilesFunctionalities: Media sa imenom 75936a301a3baffa2a6d13... je u rename modu
+20/Dec/2020 20:44:46,500- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:44:48,963- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:46:22,906- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:46:27,874- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:46:30,829- MyFilesFunctionalities: Media aaa.png je u view modu
+20/Dec/2020 20:46:34,904- MyFilesFunctionalities: Media aaa.png je u view modu
+20/Dec/2020 20:46:37,575- MyFilesFunctionalities: Media sa imenom aaa.png je u rename modu
+20/Dec/2020 20:46:40,442- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:46:42,543- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:48:25,953- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:48:31,250- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:48:33,971- MyFilesFunctionalities: Media b6b91b8f69a8023191924e3b69ce107c.png je u view modu
+20/Dec/2020 20:48:37,701- MyFilesFunctionalities: Media b6b91b8f69a8023191924e3b69ce107c.png je u view modu
+20/Dec/2020 20:48:40,461- MyFilesFunctionalities: Media sa imenom b6b91b8f69a8023191924e... je u rename modu
+20/Dec/2020 20:48:43,363- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:48:45,518- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:51:52,847- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:51:57,640- MyFilesFunctionalities: My Files Page successfully opened
+20/Dec/2020 20:52:00,798- MyFilesFunctionalities: Media bbb.png je u view modu
+20/Dec/2020 20:52:04,508- MyFilesFunctionalities: Media bbb.png je u view modu
+20/Dec/2020 20:52:07,156- MyFilesFunctionalities: Media sa imenom bbb.png je u rename modu
+20/Dec/2020 20:52:10,208- MyFilesFunctionalities: Ime promenjenog media je aaa.png
+20/Dec/2020 20:52:12,452- MyFilesFunctionalities: Ime promenjenog media je bbb.png
+20/Dec/2020 20:53:52,952- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:53:56,773- MyFilesDeleteFiles: My Files Page successfully opened
+20/Dec/2020 20:53:56,864- MyFilesDeleteFiles: Pre brisanja ima 18 fajlova
+20/Dec/2020 20:53:57,019- MyFilesDeleteFiles: All files (19)
+20/Dec/2020 20:54:00,550- MyFilesDeleteFiles: Nakon brisanja fajla ima 18 fajlova
+20/Dec/2020 20:54:00,630- MyFilesDeleteFiles: All files (18)
+20/Dec/2020 20:54:03,141- MyFilesDeleteFiles: My Files Page successfully opened
+20/Dec/2020 20:54:03,180- MyFilesDeleteFiles: Pre brisanja ima 18 fajlova
+20/Dec/2020 20:54:03,235- MyFilesDeleteFiles: All files (18)
+20/Dec/2020 20:54:06,649- MyFilesDeleteFiles: Nakon brisanja fajla ima 18 fajlova
+20/Dec/2020 20:54:06,715- MyFilesDeleteFiles: All files (18)
+20/Dec/2020 20:54:06,716- MyFilesDeleteFiles: ********************************************************************************
+20/Dec/2020 20:55:38,296- Login: Korisnik sa emailom filip@mailinator.com je uspesno ulogovan!
+20/Dec/2020 20:55:42,723- MyFilesDeleteFiles: My Files Page successfully opened
+20/Dec/2020 20:55:42,897- MyFilesDeleteFiles: Pre brisanja ima 15 fajlova
+20/Dec/2020 20:55:43,216- MyFilesDeleteFiles: All files (15)
+20/Dec/2020 20:55:47,558- MyFilesDeleteFiles: Nakon brisanja fajla ima 14 fajlova
+20/Dec/2020 20:55:47,631- MyFilesDeleteFiles: All files (14)
+20/Dec/2020 20:55:50,112- MyFilesDeleteFiles: My Files Page successfully opened
+20/Dec/2020 20:55:50,153- MyFilesDeleteFiles: Pre brisanja ima 14 fajlova
+20/Dec/2020 20:55:50,224- MyFilesDeleteFiles: All files (14)
+20/Dec/2020 20:55:53,861- MyFilesDeleteFiles: Nakon brisanja fajla ima 13 fajlova
+20/Dec/2020 20:55:53,923- MyFilesDeleteFiles: All files (13)
+20/Dec/2020 20:55:53,924- MyFilesDeleteFiles: ********************************************************************************

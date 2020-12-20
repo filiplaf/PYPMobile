@@ -59,20 +59,22 @@ public class MyFilesFunctionalities extends Base{
 		wait_time(1);
 		scrollIntoView((mf.textMedia().get(0)));
 		log.info("Ime promenjenog media je " +mf.textMedia().get(0).getText());
-		mf.mediaBody().get(0).click();
+		jsClick(mf.mediaBody().get(0), driver);
 	}
 	
-//	@Test(priority=3)
-//	public void downloadMediaOption() throws Exception {
-//		MyFilesPage mf = new MyFilesPage(driver);
-//		mf.mediaBody().get(0).click();
-//		mf.threeDotsOnMedia().click();
-//		mf.threeDotsMenuOption().get(3).click();
-//		log.info("TRENUTNO BUG?!");
-//		mf.downloadIcon().click();
-//		log.info("TRENUTNO BUG?!");
-//		mf.mediaBody().get(0).click();
-//	}
+	@Test(priority=3)
+	public void downloadMediaOption() throws Exception {
+		String name = new Object(){}.getClass().getEnclosingMethod().getName();
+		MyFilesPage mf = new MyFilesPage(driver);
+		scrollIntoView((mf.mediaBody().get(0)));
+		jsClick(mf.mediaBody().get(0), driver);
+		jsClick(mf.threeDotsOnMedia(), driver);
+		jsClick(mf.threeDotsMenuOption().get(2), driver);
+		scrollIntoView(mf.downloadIcon());
+		mf.downloadIcon().click();
+		jsClick(mf.mediaBody().get(0),driver);
+		captureFullScreen(name);
+	}
 	
 	
 	@AfterTest(alwaysRun = true)
