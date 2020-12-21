@@ -16,7 +16,7 @@ public class MyFilesFunctionalities extends Base{
 	@Test(priority=1)
 	public void viewMediaOption() throws Exception {
 		String name = new Object(){}.getClass().getEnclosingMethod().getName();
-		navigateTab("My Files");
+		navigateMobileTab("My Files");
 		wait_time(2);
 		MyFilesPage mf = new MyFilesPage(driver);
 		if("My Files".equals(mf.titleMyFiles().getText())){

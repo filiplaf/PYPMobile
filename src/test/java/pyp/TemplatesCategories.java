@@ -21,7 +21,7 @@ public class TemplatesCategories extends Base{
 	int size = tp.videoBody().size();
 	log.info("Before clicking on categories we have " +size+ " displayed videos");
 	tp.categories().click();
-	tp.categoryOption().get(1).click();
+	tp.categoryOption().get(2).click();
 	String name = tp.categoryOption().get(1).getText();
 	wait_time(2);
 	int size1 = tp.videoBody().size();

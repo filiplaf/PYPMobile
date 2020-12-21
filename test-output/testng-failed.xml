@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test name="VIEW,RENAME,DOWNLOAD FILES(failed)">
+  <test name="DELETE FILES(failed)">
     <classes>
-      <class name="pyp.MyFilesFunctionalities">
+      <class name="pyp.MyFilesDeleteFiles">
         <methods>
-          <include name="downloadMediaOption"/>
+          <include name="deleteFilesOnMedia"/>
+          <include name="teardown"/>
         </methods>
-      </class> <!-- pyp.MyFilesFunctionalities -->
+      </class> <!-- pyp.MyFilesDeleteFiles -->
     </classes>
-  </test> <!-- VIEW,RENAME,DOWNLOAD FILES(failed) -->
+  </test> <!-- DELETE FILES(failed) -->
 </suite> <!-- Failed suite [Suite] -->

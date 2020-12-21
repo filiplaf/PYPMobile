@@ -17,7 +17,7 @@ public class MyFilesSearchBar extends Base{
 	
 	@Test(priority=1)
 	public void searchMedia() throws Exception {
-		navigateTab("My Files");
+		navigateMobileTab("My Files");
 		wait_time(2);
 		MyFilesPage mf = new MyFilesPage(driver);
 		if("My Files".equals(mf.titleMyFiles().getText())){

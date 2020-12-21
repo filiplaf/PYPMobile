@@ -70,5 +70,6 @@ public class GetInspiredSpeedsFilter extends Base{
 		jsClick(gp.clearAll(), driver);
 	}
 	gp.threeDotsMenu().click();
+	log.info("*******************************************");
 }
 }

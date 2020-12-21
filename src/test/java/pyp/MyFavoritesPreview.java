@@ -23,14 +23,14 @@ public class MyFavoritesPreview extends Base{
 		//Hover na video
 		action.moveToElement(tp.video()).perform();
 		tp.favoriteMark().get(0).click();
-		navigateTab("My Favorites");
+		navigateMobileTab("My Favorites");
 		log.info("Na Favorite stranici je prikazano " +fp.videoBody().size()+ " media");
 		log.info(fp.favoritesTitle().getText());
-		navigateTab("Templates");
+		navigateMobileTab("Templates");
 		wait_time(1);
 		action.moveToElement(tp.video1()).perform();
 		tp.favoriteMark().get(1).click();
-		navigateTab("My Favorites");
+		navigateMobileTab("My Favorites");
 		log.info("Na Favorite stranici je prikazano " +fp.videoBody().size()+ " media");
 		log.info(fp.favoritesTitle().getText());
 	}

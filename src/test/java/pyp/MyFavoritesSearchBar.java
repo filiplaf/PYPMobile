@@ -21,18 +21,18 @@ public class MyFavoritesSearchBar extends Base{
 	public void checkMediaOnPage() throws IOException {
 		TemplatesPage tp = new TemplatesPage(driver);
 		MyFavoritesPage fp = new MyFavoritesPage(driver);
-		navigateTab("My Favorites");
+		navigateMobileTab("My Favorites");
 		try {
 			if(fp.exploreTemplateButton().isDisplayed()) {
 				log.info("There is no favorite media on page, need to select on template page");
-				navigateTab("Templates");
+				navigateMobileTab("Templates");
 				Actions action = new Actions(driver);
 				//Hover na video
 				action.moveToElement(tp.video()).perform();
 				tp.favoriteMark().get(0).click();
 				action.moveToElement(tp.video()).perform();
 				tp.favoriteMark().get(1).click();
-				navigateTab("My Favorites");
+				navigateMobileTab("My Favorites");
 				wait_time(1);
 				log.info("After selection on template page there is " +fp.videoBody().size()+ " media");
 			}

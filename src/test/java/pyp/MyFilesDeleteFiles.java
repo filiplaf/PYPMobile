@@ -13,7 +13,7 @@ public class MyFilesDeleteFiles extends Base{
 	
 	@Test(priority=1)
 	public void deleteFilesOnIcon() throws Exception {
-		navigateTab("My Files");
+		navigateMobileTab("My Files");
 		wait_time(2);
 		MyFilesPage mf = new MyFilesPage(driver);
 		if("My Files".equals(mf.titleMyFiles().getText())){
@@ -34,8 +34,6 @@ public class MyFilesDeleteFiles extends Base{
 	@Test(priority=1)
 	public void deleteFilesOnMedia() throws Exception {
 		//String name = new Object(){}.getClass().getEnclosingMethod().getName();
-		navigateTab("My Files");
-		wait_time(2);
 		MyFilesPage mf = new MyFilesPage(driver);
 		if("My Files".equals(mf.titleMyFiles().getText())){
 			log.info("My Files Page successfully opened");

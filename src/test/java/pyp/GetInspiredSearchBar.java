@@ -18,7 +18,7 @@ public class GetInspiredSearchBar extends Base{
 	
 	@Test(priority=1)
 	public void getInspiredBadSearch() throws IOException {
-	navigateTab("Get Inspired");
+	navigateMobileTab("Get Inspired");
 	wait_time(2);
 	GetInspiredPage gp = new GetInspiredPage(driver);
 	log.info("Na stranici je prikazano " +gp.videoBody().size()+ " template-a pre search-a");
@@ -29,7 +29,6 @@ public class GetInspiredSearchBar extends Base{
 	
 	@Test(priority=2)
 	public void getInspiredSearch() throws IOException {
-	navigateTab("Get Inspired");
 	GetInspiredPage gp = new GetInspiredPage(driver);
 	gp.clearSearchBar().click();
 	wait_time(2);

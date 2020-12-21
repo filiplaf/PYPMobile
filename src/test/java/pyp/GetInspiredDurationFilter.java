@@ -15,7 +15,7 @@ public class GetInspiredDurationFilter extends Base{
 	
 	@Test(priority=1)
 	public void durationFilter() throws IOException {
-	navigateTab("Get Inspired"); 
+	navigateMobileTab("Get Inspired");
 	wait_time(2);
 	GetInspiredPage gp = new GetInspiredPage(driver);
 	int videoSize = gp.videoBody().size();

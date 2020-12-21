@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="35023" started-at="2020-12-20T19:55:20Z" finished-at="2020-12-20T19:55:55Z">
+  <suite name="Suite" duration-ms="13072" started-at="2020-12-21T17:39:32Z" finished-at="2020-12-21T17:39:45Z">
     <groups>
     </groups>
-    <test name="DELETE FILES" duration-ms="35023" started-at="2020-12-20T19:55:20Z" finished-at="2020-12-20T19:55:55Z">
-      <class name="pyp.MyFilesDeleteFiles">
-        <test-method status="PASS" signature="deleteFilesOnIcon()[pri:1, instance:pyp.MyFilesDeleteFiles@2adc1e84]" name="deleteFilesOnIcon" duration-ms="9107" started-at="2020-12-20T20:55:38Z" finished-at="2020-12-20T20:55:47Z">
+    <test name="TEMPLATES VIDEO FORMAT" duration-ms="13072" started-at="2020-12-21T17:39:32Z" finished-at="2020-12-21T17:39:45Z">
+      <class name="pyp.TemplatesVideoFormat">
+        <test-method status="PASS" signature="checkVideoFormat()[pri:0, instance:pyp.TemplatesVideoFormat@4fa8297b]" name="checkVideoFormat" duration-ms="4705" started-at="2020-12-21T18:39:39Z" finished-at="2020-12-21T18:39:44Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deleteFilesOnIcon -->
-        <test-method status="PASS" signature="deleteFilesOnMedia()[pri:1, instance:pyp.MyFilesDeleteFiles@2adc1e84]" name="deleteFilesOnMedia" duration-ms="6286" started-at="2020-12-20T20:55:47Z" finished-at="2020-12-20T20:55:53Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteFilesOnMedia -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:pyp.MyFilesDeleteFiles@2adc1e84]" name="teardown" is-config="true" duration-ms="1436" started-at="2020-12-20T20:55:53Z" finished-at="2020-12-20T20:55:55Z">
+        </test-method> <!-- checkVideoFormat -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pyp.TemplatesVideoFormat@4fa8297b]" name="teardown" is-config="true" duration-ms="652" started-at="2020-12-21T18:39:44Z" finished-at="2020-12-21T18:39:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- pyp.MyFilesDeleteFiles -->
+      </class> <!-- pyp.TemplatesVideoFormat -->
       <class name="pyp.Login">
-        <test-method status="PASS" signature="login()[pri:0, instance:pyp.Login@1c788d08]" name="login" duration-ms="17872" started-at="2020-12-20T20:55:20Z" finished-at="2020-12-20T20:55:38Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:pyp.Login@25e95af1]" name="login" duration-ms="7690" started-at="2020-12-21T18:39:32Z" finished-at="2020-12-21T18:39:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
       </class> <!-- pyp.Login -->
-    </test> <!-- DELETE FILES -->
+    </test> <!-- TEMPLATES VIDEO FORMAT -->
   </suite> <!-- Suite -->
 </testng-results>

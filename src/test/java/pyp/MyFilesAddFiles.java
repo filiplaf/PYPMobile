@@ -4,7 +4,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
-
 import pageObjects.MyFilesPage;
 import resources.Base;
 
@@ -15,16 +14,17 @@ public class MyFilesAddFiles extends Base{
 	@Test
 	public void uploadMyDevice() throws Exception {
 		//String name = new Object(){}.getClass().getEnclosingMethod().getName();
-		navigateTab("My Files");
+		navigateMobileTab("My Files");
 		wait_time(2);
 		MyFilesPage mf = new MyFilesPage(driver);
 		if("My Files".equals(mf.titleMyFiles().getText())){
 			log.info("My Files Page successfully opened");
+			log.info("Pre upload-a na " +mf.allFilesTab().getText()+ " prikazano je " +mf.mediaBody().size()+ " fajlova");
 		}
 		else
 			log.error("My Files Page is not opened");
 		mf.addFilesButton().click();
-		wait_time(1);
+		wait_time(3);
 		mf.uploadMedia1().sendKeys(upload());
 		wait_time(1);
 		mf.uploadMedia().sendKeys(upload1());
@@ -68,7 +68,7 @@ public class MyFilesAddFiles extends Base{
 		log.info("Trenutno zauzece prostora je: " +mf.storageInfo().getText());
 		log.info("*************************************************************************");
 	}
-	
+//	
 	@AfterTest(alwaysRun = true)
 	public void teardown() {
 		driver.close();

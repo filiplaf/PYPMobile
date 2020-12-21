@@ -16,7 +16,7 @@ public class MyFilesAddFilesFromStock extends Base{
 	
 	@Test
 	public void uploadStock() throws Exception {
-		navigateTab("My Files");
+		navigateMobileTab("My Files");
 		wait_time(2);
 		MyFilesPage mf = new MyFilesPage(driver);
 		if("My Files".equals(mf.titleMyFiles().getText())){
@@ -24,7 +24,7 @@ public class MyFilesAddFilesFromStock extends Base{
 		}
 		else
 			log.error("My Files Page is not opened");
-		log.info("Pre stock upload-a ima " +mf.mediaBody().size()+ " media");
+		log.info("Pre stock upload-a na " +mf.allFilesTab().getText()+ " prikazano je " +mf.mediaBody().size()+ " fajlova");
 		mf.addFilesButton().click();
 		wait_time(1);
 		mf.uploadOption().get(6).click();

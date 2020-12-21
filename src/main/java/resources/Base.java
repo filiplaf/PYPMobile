@@ -14,7 +14,7 @@ import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
-//import org.openqa.selenium.Dimension;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -39,10 +39,18 @@ public class Base {
 		//WebDriverManager.chromedriver().setup();
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--start-maximized");
+		System.setProperty("webdriver.chrome.driver",chrome());
 		driver = new ChromeDriver(options);
-		//driver.manage().window().setSize(new Dimension(990, 768));
+		driver.manage().window().setSize(new Dimension(1100, 900));
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		return driver;
+	}
+	
+	public static String chrome() {
+	    String filename = "drivers/chromedriver.exe";
+	    File file = new File(filename);
+	    String path = file.getAbsolutePath();
+	    return path;
 	}
 	
 	public static boolean waitForTextToAppear(WebDriver driver, String textToAppear, WebElement element) {	
@@ -55,6 +63,7 @@ public class Base {
 			return false;
 		}
 	}
+
 	public static void wait_time(int seconds) {
 		try {
 			Thread.sleep(seconds * 1000);

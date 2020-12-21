@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="pyp.TemplatesVideoFormat">
+      <class name="pyp.MyFilesAddFilesFromStock">
         <methods>
+          <include name="uploadStock"/>
           <include name="teardown"/>
-          <include name="checkVideoFormat"/>
         </methods>
-      </class> <!-- pyp.TemplatesVideoFormat -->
+      </class> <!-- pyp.MyFilesAddFilesFromStock -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
